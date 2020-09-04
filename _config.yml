@@ -25,3 +25,5 @@ plugins:
   - jekyll-mentions
 
 theme: jekyll-theme-cayman
+
+remote_theme: rundocs/jekyll-rtd-theme
