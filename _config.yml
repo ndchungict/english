@@ -24,6 +24,6 @@ plugins:
   - jekyll-avatar
   - jekyll-mentions
 
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 
 remote_theme: rundocs/jekyll-rtd-theme
